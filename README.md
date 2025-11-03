@@ -1,10 +1,10 @@
-# Hi 👋! My name is Katherine and I'm an IT Professional
+# Hi! 👋 My name is Katherine, and I'm an IT Professional
 
 <div align="left">
   
 ## 💼 About Me
 
-I'm an **IT Professional**, **DevOps Engineer** and **Automation Specialist** specializing in automation, cloud infrastructure, and AI integration. I build intelligent, functional, and intuitive solutions that deliver results.
+I'm an **IT Professional**, **DevOps Engineer**, and **Automation Specialist** specializing in automation, cloud infrastructure, and AI integration. I build intelligent, functional, and intuitive solutions that deliver results.
 
 🌐 **Portfolio:** [kslportfolio-id010.vercel.app](https://kslportfolio-id010.vercel.app/)  
 💼 **LinkedIn:** [katherine-laxamana](https://www.linkedin.com/in/katherine-laxamana/)  
