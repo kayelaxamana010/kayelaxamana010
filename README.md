@@ -61,9 +61,11 @@ I'm an **IT Professional**, **DevOps Engineer**, and **Automation Specialist** s
 
 ### Automation & Integration
 <div align="left">
-  <img src="https://www.make.com/en/hc/theming_assets/01HZP1S106STP1FMHXK6SPA3ZV" height="40" alt="Make" />
+  <img src="https://cdn.simpleicons.org/make/6D00CC" height="40" alt="Make" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="PowerShell" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/zapier/FF4A00" height="40" alt="Zapier" />
 </div>
 
 ### Collaboration & Project Management
