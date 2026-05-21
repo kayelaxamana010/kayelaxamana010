@@ -79,7 +79,7 @@ I'm an **IT Professional**, **DevOps Engineer**, and **Automation Specialist** s
 
 ### AI & Tools
 <div align="left">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="40" alt="OpenAI" />
+  <img src="./icons/openai-icon.svg" height="40" alt="OpenAI" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/anthropic/D97757" height="40" alt="Claude" />
   <img width="12" />
@@ -91,9 +91,9 @@ I'm an **IT Professional**, **DevOps Engineer**, and **Automation Specialist** s
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kayelaxamana010&show_icons=true&theme=dracula" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com/?user=kayelaxamana010&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kayelaxamana010&layout=compact&langs_count=8&theme=dracula" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kayelaxamana010&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ---
