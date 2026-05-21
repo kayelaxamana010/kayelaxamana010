@@ -91,9 +91,9 @@ I'm an **IT Professional**, **DevOps Engineer**, and **Automation Specialist** s
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=kayelaxamana010&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kayelaxamana010&theme=dracula" height="150" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kayelaxamana010&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kayelaxamana010&theme=dracula" height="150" alt="Top Languages" />
 </div>
 
 ---
